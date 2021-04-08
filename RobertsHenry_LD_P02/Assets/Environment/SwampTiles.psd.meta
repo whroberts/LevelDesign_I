@@ -1,0 +1,911 @@
+fileFormatVersion: 2
+guid: 1895e111f4fc9f5449804cefca1f1a25
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8839168641443173391
+    second: SwampTiles_0
+  - first:
+      213: -6149989249725724335
+    second: SwampTiles_1
+  - first:
+      213: 7163772682288002229
+    second: SwampTiles_2
+  - first:
+      213: -2384254171652739036
+    second: SwampTiles_3
+  - first:
+      213: -704208277542756862
+    second: SwampTiles_4
+  - first:
+      213: -4458016586266663449
+    second: SwampTiles_5
+  - first:
+      213: -441245766429732558
+    second: SwampTiles_6
+  - first:
+      213: -7678529019057396567
+    second: SwampTiles_7
+  - first:
+      213: 6939456995579622427
+    second: SwampTiles_8
+  - first:
+      213: -4180978246987183845
+    second: SwampTiles_9
+  - first:
+      213: -2480103506122996389
+    second: SwampTiles_10
+  - first:
+      213: -1434642353116175509
+    second: SwampTiles_11
+  - first:
+      213: 6439686019233624714
+    second: SwampTiles_12
+  - first:
+      213: 4335256008415314293
+    second: SwampTiles_13
+  - first:
+      213: 8832801078252907981
+    second: SwampTiles_14
+  - first:
+      213: -2235383236661809229
+    second: SwampTiles_15
+  - first:
+      213: -8987518195175032575
+    second: SwampTiles_16
+  - first:
+      213: -5402961697630761868
+    second: SwampTiles_17
+  - first:
+      213: 709140480226971258
+    second: SwampTiles_18
+  - first:
+      213: -184778556805561941
+    second: SwampTiles_19
+  - first:
+      213: -6396086487212499383
+    second: SwampTiles_20
+  - first:
+      213: 2894878764637177438
+    second: SwampTiles_21
+  - first:
+      213: -1096868920698114723
+    second: SwampTiles_22
+  - first:
+      213: 4737243222159513319
+    second: SwampTiles_23
+  - first:
+      213: 5126336132745656634
+    second: SwampTiles_24
+  - first:
+      213: 6031818545452069849
+    second: SwampTiles_25
+  - first:
+      213: 4136429612959447951
+    second: SwampTiles_26
+  - first:
+      213: 1450668941359237531
+    second: SwampTiles_27
+  - first:
+      213: -4995744134946511519
+    second: SwampTiles_28
+  - first:
+      213: -1898701415875277348
+    second: SwampTiles_29
+  - first:
+      213: 7552178003384570870
+    second: SwampTiles_30
+  - first:
+      213: -3750998016603131985
+    second: SwampTiles_31
+  - first:
+      213: -8130640854564439773
+    second: SwampTiles_32
+  - first:
+      213: -8188222866312731525
+    second: SwampTiles_33
+  - first:
+      213: -6190937968746115059
+    second: SwampTiles_34
+  - first:
+      213: -5834951426905792008
+    second: SwampTiles_35
+  - first:
+      213: 1934861959099475069
+    second: SwampTiles_36
+  - first:
+      213: -5807604396321376686
+    second: SwampTiles_37
+  - first:
+      213: 6871250100360029504
+    second: SwampTiles_38
+  - first:
+      213: -4602276831051937899
+    second: SwampTiles_39
+  - first:
+      213: -4592861604837725801
+    second: SwampTiles_40
+  - first:
+      213: 7434766541450726959
+    second: SwampTiles_41
+  - first:
+      213: -7908433550363505087
+    second: SwampTiles_42
+  - first:
+      213: -9127983674449714653
+    second: SwampTiles_43
+  - first:
+      213: -678567177970319940
+    second: SwampTiles_44
+  - first:
+      213: -7217291802162580657
+    second: SwampTiles_45
+  - first:
+      213: 6455202795554792018
+    second: SwampTiles_46
+  - first:
+      213: -2033406000098359964
+    second: SwampTiles_47
+  - first:
+      213: 5727808256195870137
+    second: SwampTiles_48
+  - first:
+      213: -6179682459506143342
+    second: SwampTiles_49
+  - first:
+      213: 7385459358469558233
+    second: SwampTiles_50
+  - first:
+      213: -5661411394437013689
+    second: SwampTiles_51
+  - first:
+      213: -4227404304937844686
+    second: SwampTiles_52
+  - first:
+      213: 4149070587899000913
+    second: SwampTiles_53
+  - first:
+      213: -3412843117816023946
+    second: SwampTiles_54
+  - first:
+      213: -3402652262543152158
+    second: SwampTiles_55
+  - first:
+      213: -1446695096531825226
+    second: SwampTiles_56
+  - first:
+      213: 5413231225707196496
+    second: SwampTiles_57
+  - first:
+      213: -1582320612300771255
+    second: SwampTiles_58
+  - first:
+      213: -5360306304635200102
+    second: SwampTiles_59
+  - first:
+      213: -3395603032923978275
+    second: SwampTiles_60
+  - first:
+      213: 4162695143100692984
+    second: SwampTiles_61
+  - first:
+      213: 707553135994458868
+    second: SwampTiles_62
+  - first:
+      213: -511259602471955286
+    second: SwampTiles_63
+  - first:
+      213: 6506833407375466940
+    second: SwampTiles_64
+  - first:
+      213: 5135989111469028307
+    second: SwampTiles_65
+  - first:
+      213: -6883673404404063562
+    second: SwampTiles_66
+  - first:
+      213: -7645160707401087365
+    second: SwampTiles_67
+  - first:
+      213: 5603900749024282504
+    second: SwampTiles_68
+  - first:
+      213: -2992036280937852914
+    second: SwampTiles_69
+  - first:
+      213: 8476715589208896497
+    second: SwampTiles_70
+  - first:
+      213: 5343192952498489747
+    second: SwampTiles_71
+  - first:
+      213: -1009546625755323115
+    second: SwampTiles_72
+  - first:
+      213: -3522509038370588590
+    second: SwampTiles_73
+  - first:
+      213: 1917791898848884776
+    second: SwampTiles_74
+  - first:
+      213: -6890401343184846870
+    second: SwampTiles_75
+  - first:
+      213: -2832754120494091619
+    second: SwampTiles_76
+  - first:
+      213: -4440172907994176754
+    second: SwampTiles_77
+  - first:
+      213: -3741392861027838727
+    second: SwampTiles_78
+  - first:
+      213: 1955352784829267873
+    second: SwampTiles_79
+  - first:
+      213: 2064567125988863924
+    second: SwampTiles_80
+  - first:
+      213: -3093661504173009593
+    second: SwampTiles_81
+  - first:
+      213: -2156018802677470136
+    second: SwampTiles_82
+  - first:
+      213: -8593972735042033245
+    second: SwampTiles_83
+  - first:
+      213: -7742952608625101999
+    second: SwampTiles_84
+  - first:
+      213: -2356492627167319497
+    second: SwampTiles_85
+  - first:
+      213: 983288771406682893
+    second: SwampTiles_86
+  - first:
+      213: -5368738175521809376
+    second: SwampTiles_87
+  - first:
+      213: -8369821001747247297
+    second: SwampTiles_88
+  - first:
+      213: -6565309948961866480
+    second: SwampTiles_89
+  - first:
+      213: -3994505904665609603
+    second: SwampTiles_90
+  - first:
+      213: 2766912488584501230
+    second: SwampTiles_91
+  - first:
+      213: -9027171405259953954
+    second: SwampTiles_92
+  - first:
+      213: -3206029184335273645
+    second: SwampTiles_93
+  - first:
+      213: -5370258237416331302
+    second: SwampTiles_94
+  - first:
+      213: 7828696792199274528
+    second: SwampTiles_95
+  - first:
+      213: -6657419694676310546
+    second: SwampTiles_96
+  - first:
+      213: -3376810627894974528
+    second: SwampTiles_97
+  - first:
+      213: 670373576440188646
+    second: SwampTiles_98
+  - first:
+      213: 1960791158193762124
+    second: SwampTiles_99
+  - first:
+      213: -507348766898112188
+    second: SwampTiles_5
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 250
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SwampTiles_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 900
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f041ef62c090baa70800000000000000
+      internalID: 8839168641443173391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwampTiles_1
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 900
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15980a58c59d6aaa0800000000000000
+      internalID: -6149989249725724335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwampTiles_2
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 900
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b47c6b9c45da6360800000000000000
+      internalID: 7163772682288002229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwampTiles_3
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 900
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4203564967d69eed0800000000000000
+      internalID: -2384254171652739036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwampTiles_4
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 900
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20e9c297d462a36f0800000000000000
+      internalID: -704208277542756862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwampTiles_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 800
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5586575007e49dd0800000000000000
+      internalID: -2480103506122996389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwampTiles_11
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 800
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b63a7c28160271ce0800000000000000
+      internalID: -1434642353116175509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwampTiles_12
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 800
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a823879c05c5e5950800000000000000
+      internalID: 6439686019233624714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwampTiles_13
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 800
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57109f7de5ce92c30800000000000000
+      internalID: 4335256008415314293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwampTiles_14
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 800
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcda3f058c9649a70800000000000000
+      internalID: 8832801078252907981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwampTiles_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 700
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94ed5015a398c37a0800000000000000
+      internalID: -6396086487212499383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwampTiles_21
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 700
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e56450216ecac2820800000000000000
+      internalID: 2894878764637177438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwampTiles_22
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 700
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5d6f90378327c0f0800000000000000
+      internalID: -1096868920698114723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwampTiles_23
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 700
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e6d17f8c911eb140800000000000000
+      internalID: 4737243222159513319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwampTiles_24
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 700
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a39fd8f5d87642740800000000000000
+      internalID: 5126336132745656634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwampTiles_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 600
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f3914481e9bec860800000000000000
+      internalID: 7552178003384570870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwampTiles_31
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 600
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fafec237d27c1fbc0800000000000000
+      internalID: -3750998016603131985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwampTiles_32
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 600
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 329786388392a2f80800000000000000
+      internalID: -8130640854564439773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwampTiles_33
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 600
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b74e2b7afa69d5e80800000000000000
+      internalID: -8188222866312731525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwampTiles_34
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 600
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d00d86ae7be551aa0800000000000000
+      internalID: -6190937968746115059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwampTiles_68
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 300
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 887432e5a0e05cd40800000000000000
+      internalID: 5603900749024282504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwampTiles_78
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 200
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f4d0410407e31cc0800000000000000
+      internalID: -3741392861027838727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwampTiles_88
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 100
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3f4045e42c68db80800000000000000
+      internalID: -8369821001747247297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwampTiles_99
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4fadde6b21263b10800000000000000
+      internalID: 1960791158193762124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
