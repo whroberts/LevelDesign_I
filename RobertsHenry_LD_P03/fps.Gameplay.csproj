@@ -76,6 +76,7 @@
     <Compile Include="Assets\FPS\Scripts\Gameplay\Objectives\ObjectivePickupItem.cs" />
     <Compile Include="Assets\FPS\Scripts\Gameplay\PlayerCharacterController.cs" />
     <Compile Include="Assets\FPS\Scripts\Gameplay\ChargedWeaponEffectsHandler.cs" />
+    <Compile Include="Assets\FPS\Scripts\Gameplay\Objectives\ObjectiveDefeatBoss.cs" />
   </ItemGroup>
   <ItemGroup>
      <None Include="Assets\FPS\Scripts\Gameplay\fps.Gameplay.asmdef" />
