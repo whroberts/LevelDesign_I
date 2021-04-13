@@ -2,6 +2,8 @@ ScriptsOnlyBuild:
   usedScripts:
     NavMeshComponents.dll:
     - UnityEngine.AI.NavMeshSurface
+    NavMeshComponentsEditor.dll:
+    - UnityEditor.AI.NavMeshAssetManager
     Unity.InteractiveTutorials.Core.Scripts.dll:
     - SceneObjectGUIDComponent
     Unity.Rider.Editor.dll:
@@ -96,8 +98,6 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 81
       Script: {instanceID: 0}
-    - Class: 89
-      Script: {instanceID: 0}
     - Class: 104
       Script: {instanceID: 0}
     - Class: 114
@@ -163,8 +163,6 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 81
       Script: {instanceID: 0}
-    - Class: 89
-      Script: {instanceID: 0}
     - Class: 104
       Script: {instanceID: 0}
     - Class: 114
@@ -229,6 +227,8 @@ ScriptsOnlyBuild:
     - Class: 82
       Script: {instanceID: 0}
     - Class: 83
+      Script: {instanceID: 0}
+    - Class: 89
       Script: {instanceID: 0}
     - Class: 104
       Script: {instanceID: 0}
@@ -411,6 +411,8 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 83
       Script: {instanceID: 0}
+    - Class: 89
+      Script: {instanceID: 0}
     - Class: 104
       Script: {instanceID: 0}
     - Class: 108
@@ -579,8 +581,6 @@ ScriptsOnlyBuild:
     - Class: 48
       Script: {instanceID: 0}
     - Class: 81
-      Script: {instanceID: 0}
-    - Class: 89
       Script: {instanceID: 0}
     - Class: 104
       Script: {instanceID: 0}
@@ -1582,4 +1582,4 @@ ScriptsOnlyBuild:
   - Assets/FPS/Scenes/LoseScene.unity
   - Assets/FPS/Scenes/Sandbox.unity
   - Assets/FPS/Scenes/MainScene.unity
-  playerPath: C:/Users/whr5t/Dropbox/Spring 2021/ATCM_3367_LevelDesign/LD_UnityProjects/RobertsHenry_LD_P03/Builds/Sandbox.v1/RobertsHenry_LD_P03_FPSMultigame.exe
+  playerPath: C:/Users/whr5t/Desktop/GitRepos/LevelDesign_I/RobertsHenry_LD_P03/Builds/Sandbox.v2/RobertsHenry_LD_P03_FPSMultigame.exe
