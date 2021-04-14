@@ -58,6 +58,10 @@
   <ItemGroup>
     <Compile Include="Assets\FPS\Custom\Scripts\BossDefeated.cs" />
     <Compile Include="Assets\FPS\Custom\Scripts\Button.cs" />
+    <Compile Include="Assets\FPS\Custom\Scripts\TriggerEnemies.cs" />
+    <Compile Include="Assets\FPS\Custom\Scripts\Interaction.cs" />
+    <Compile Include="Assets\FPS\Custom\Scripts\TriggerEnemyController.cs" />
+    <Compile Include="Assets\FPS\Custom\Scripts\InteractionDistance.cs" />
   </ItemGroup>
   <ItemGroup>
      <None Include="Assets\TextMesh Pro\Resources\Shaders\TMPro.cginc" />
