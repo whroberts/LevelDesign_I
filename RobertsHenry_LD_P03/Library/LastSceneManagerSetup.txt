@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/FPS/Scenes/Sandbox.unity
+- path: Assets/FPS/Scenes/Whitebox.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
