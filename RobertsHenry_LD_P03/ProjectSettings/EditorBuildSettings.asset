@@ -20,7 +20,10 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/FPS/Scenes/MainScene.unity
     guid: d794a2ef8ba31d847ad3c19d03e2ddb9
-  - enabled: 1
+  - enabled: 0
     path: Assets/FPS/Scenes/Whitebox.unity
     guid: 9dc5ac3de3e8e4e48ba31a4775677185
+  - enabled: 1
+    path: Assets/FPS/Scenes/FinalScene.unity
+    guid: 064ae325ab88c9a4893e2841496a4c4b
   m_configObjects: {}

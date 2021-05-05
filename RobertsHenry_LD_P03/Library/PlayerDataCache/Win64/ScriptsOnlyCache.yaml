@@ -1,5 +1,7 @@
 ScriptsOnlyBuild:
   usedScripts:
+    Assembly-CSharp.dll:
+    - Cutscene
     NavMeshComponents.dll:
     - UnityEngine.AI.NavMeshModifier
     - UnityEngine.AI.NavMeshSurface
@@ -9,6 +11,7 @@ ScriptsOnlyBuild:
     - UnityEditor.ProBuilder.EditorToolbar
     - UnityEditor.ProBuilder.ProBuilderEditor
     Unity.ProBuilder.dll:
+    - UnityEngine.ProBuilder.PolyShape
     - UnityEngine.ProBuilder.ProBuilderMesh
     Unity.Rider.Editor.dll:
     - Packages.Rider.Editor.UnitTesting.CallbackData
@@ -54,7 +57,6 @@ ScriptsOnlyBuild:
     - Unity.FPS.Game.Actor
     - Unity.FPS.Game.ActorsManager
     - Unity.FPS.Game.AudioManager
-    - Unity.FPS.Game.DamageArea
     - Unity.FPS.Game.Damageable
     - Unity.FPS.Game.GameFlowManager
     - Unity.FPS.Game.Health
@@ -64,8 +66,6 @@ ScriptsOnlyBuild:
     - Unity.FPS.Game.TimedSelfDestruct
     - Unity.FPS.Game.WeaponController
     fps.Gameplay.dll:
-    - Unity.FPS.Gameplay.ChargedProjectileEffectsHandler
-    - Unity.FPS.Gameplay.ChargedWeaponEffectsHandler
     - Unity.FPS.Gameplay.HealthPickup
     - Unity.FPS.Gameplay.Jetpack
     - Unity.FPS.Gameplay.JetpackPickup
@@ -74,7 +74,6 @@ ScriptsOnlyBuild:
     - Unity.FPS.Gameplay.PlayerCharacterController
     - Unity.FPS.Gameplay.PlayerInputHandler
     - Unity.FPS.Gameplay.PlayerWeaponsManager
-    - Unity.FPS.Gameplay.ProjectileChargeParameters
     - Unity.FPS.Gameplay.ProjectileStandard
     - Unity.FPS.Gameplay.WeaponFuelCellHandler
     - Unity.FPS.Gameplay.WeaponPickup
@@ -102,7 +101,7 @@ ScriptsOnlyBuild:
     - Unity.FPS.UI.WeaponHUDManager
     - Unity.FPS.UI.WorldspaceHealthBar
   sceneClasses:
-    Assets/FPS/Scenes/Whitebox.unity:
+    Assets/FPS/Scenes/FinalScene.unity:
     - Class: 1
       Script: {instanceID: 0}
     - Class: 4
@@ -144,8 +143,6 @@ ScriptsOnlyBuild:
     - Class: 91
       Script: {instanceID: 0}
     - Class: 95
-      Script: {instanceID: 0}
-    - Class: 96
       Script: {instanceID: 0}
     - Class: 104
       Script: {instanceID: 0}
@@ -190,8 +187,6 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 2130}
     - Class: 114
-      Script: {instanceID: 2136}
-    - Class: 114
       Script: {instanceID: 2184}
     - Class: 114
       Script: {instanceID: 2244}
@@ -224,83 +219,79 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 2760}
     - Class: 114
-      Script: {instanceID: 2812}
+      Script: {instanceID: 2878}
     - Class: 114
-      Script: {instanceID: 2876}
+      Script: {instanceID: 2892}
     - Class: 114
-      Script: {instanceID: 2890}
+      Script: {instanceID: 2982}
     - Class: 114
-      Script: {instanceID: 2980}
+      Script: {instanceID: 3030}
     - Class: 114
-      Script: {instanceID: 3028}
+      Script: {instanceID: 3036}
     - Class: 114
-      Script: {instanceID: 3034}
+      Script: {instanceID: 3042}
     - Class: 114
-      Script: {instanceID: 3040}
+      Script: {instanceID: 3104}
     - Class: 114
-      Script: {instanceID: 3102}
+      Script: {instanceID: 3158}
     - Class: 114
-      Script: {instanceID: 3156}
+      Script: {instanceID: 3222}
     - Class: 114
-      Script: {instanceID: 3220}
+      Script: {instanceID: 3254}
     - Class: 114
-      Script: {instanceID: 3252}
+      Script: {instanceID: 3258}
     - Class: 114
-      Script: {instanceID: 3256}
+      Script: {instanceID: 3294}
     - Class: 114
-      Script: {instanceID: 3292}
+      Script: {instanceID: 3356}
     - Class: 114
-      Script: {instanceID: 3402}
+      Script: {instanceID: 3406}
     - Class: 114
-      Script: {instanceID: 3428}
+      Script: {instanceID: 3432}
     - Class: 114
-      Script: {instanceID: 3468}
+      Script: {instanceID: 3472}
     - Class: 114
-      Script: {instanceID: 3590}
+      Script: {instanceID: 3594}
     - Class: 114
-      Script: {instanceID: 3688}
+      Script: {instanceID: 3692}
     - Class: 114
-      Script: {instanceID: 3744}
+      Script: {instanceID: 3748}
     - Class: 114
-      Script: {instanceID: 3868}
+      Script: {instanceID: 3872}
     - Class: 114
-      Script: {instanceID: 3876}
+      Script: {instanceID: 3880}
     - Class: 114
-      Script: {instanceID: 4006}
+      Script: {instanceID: 4010}
     - Class: 114
-      Script: {instanceID: 4044}
+      Script: {instanceID: 4048}
     - Class: 114
-      Script: {instanceID: 4186}
+      Script: {instanceID: 4190}
     - Class: 114
-      Script: {instanceID: 4198}
+      Script: {instanceID: 4202}
     - Class: 114
-      Script: {instanceID: 4200}
+      Script: {instanceID: 4204}
     - Class: 114
-      Script: {instanceID: 4206}
+      Script: {instanceID: 4210}
     - Class: 114
-      Script: {instanceID: 4214}
+      Script: {instanceID: 4218}
     - Class: 114
-      Script: {instanceID: 4252}
+      Script: {instanceID: 4288}
     - Class: 114
-      Script: {instanceID: 4284}
+      Script: {instanceID: 4378}
     - Class: 114
-      Script: {instanceID: 4374}
+      Script: {instanceID: 4418}
     - Class: 114
-      Script: {instanceID: 4414}
+      Script: {instanceID: 4456}
     - Class: 114
-      Script: {instanceID: 4452}
+      Script: {instanceID: 4504}
     - Class: 114
-      Script: {instanceID: 4500}
+      Script: {instanceID: 4652}
     - Class: 114
-      Script: {instanceID: 4648}
+      Script: {instanceID: 4732}
     - Class: 114
-      Script: {instanceID: 4722}
+      Script: {instanceID: 4890}
     - Class: 114
-      Script: {instanceID: 4728}
-    - Class: 114
-      Script: {instanceID: 4886}
-    - Class: 114
-      Script: {instanceID: 4898}
+      Script: {instanceID: 4902}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 119
@@ -308,6 +299,8 @@ ScriptsOnlyBuild:
     - Class: 128
       Script: {instanceID: 0}
     - Class: 135
+      Script: {instanceID: 0}
+    - Class: 136
       Script: {instanceID: 0}
     - Class: 137
       Script: {instanceID: 0}
@@ -784,6 +777,12 @@ ScriptsOnlyBuild:
     className: TestResultRendererCallback
   - hash:
       serializedVersion: 2
+      Hash: 682978ec725b7a873c63622aa658ae73
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: GameController
+  - hash:
+      serializedVersion: 2
       Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
     assemblyName: fps.UI.dll
     namespaceName: Unity.FPS.UI
@@ -920,6 +919,12 @@ ScriptsOnlyBuild:
     assemblyName: UnityEngine.UI.dll
     namespaceName: UnityEngine.UI
     className: ContentSizeFitter
+  - hash:
+      serializedVersion: 2
+      Hash: de69d667364dc98b506120e170db0cfb
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: Cutscene
   - hash:
       serializedVersion: 2
       Hash: caa533b001ae39b864ba8425019e2268
@@ -1354,5 +1359,5 @@ ScriptsOnlyBuild:
     className: NavMeshLink
   platform: 19
   scenePathNames:
-  - Assets/FPS/Scenes/Whitebox.unity
-  playerPath: C:/Users/whr5t/Desktop/GitRepos/LevelDesign_I/RobertsHenry_LD_P03/Builds/Whitebox.v2/RobertsHenry_LD_P03_FPSMultigame.exe
+  - Assets/FPS/Scenes/FinalScene.unity
+  playerPath: C:/Users/whr5t/Desktop/GitRepos/LevelDesign_I/RobertsHenry_LD_P03/Builds/Final.v2/RobertsHenry_LD_P03_FPSMultigame.exe
