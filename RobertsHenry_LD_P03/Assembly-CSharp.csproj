@@ -58,12 +58,14 @@
   <ItemGroup>
     <Compile Include="Assets\FPS\Custom\Scripts\BossDefeated.cs" />
     <Compile Include="Assets\FPS\Custom\Scripts\Button.cs" />
+    <Compile Include="Assets\FPS\Custom\Scripts\DestructableWall.cs" />
     <Compile Include="Assets\FPS\Custom\Scripts\TriggerEnemyController.cs" />
     <Compile Include="Assets\FPS\Custom\Scripts\InteractionDistance.cs" />
     <Compile Include="Assets\FPS\Custom\Scripts\Interaction.cs" />
     <Compile Include="Assets\FPS\Custom\Scripts\TriggerEnemies.cs" />
-    <Compile Include="Assets\FPS\Custom\Scripts\DestructableWall.cs" />
     <Compile Include="Assets\FPS\Custom\Scripts\Rocket.cs" />
+    <Compile Include="Assets\FPS\Custom\Scripts\Cutscene.cs" />
+    <Compile Include="Assets\FPS\Custom\Scripts\GameController.cs" />
   </ItemGroup>
   <ItemGroup>
      <None Include="Assets\TextMesh Pro\Resources\Shaders\TMPro.cginc" />
