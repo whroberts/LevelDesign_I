@@ -20,7 +20,6 @@ namespace Unity.FPS.Game
             InitialDirection = transform.forward;
             InheritedMuzzleVelocity = controller.MuzzleWorldVelocity;
             InitialCharge = controller.CurrentCharge;
-
             OnShoot?.Invoke();
         }
     }

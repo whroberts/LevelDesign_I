@@ -1,0 +1,1190 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.3f1 (76626098c1c4) revision 7758432'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 19042.928; Version 2009; 64bit' Language: 'en' Physical Memory: 24524 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.3f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/whr5t/Desktop/GitRepos/LevelDesign_I/RobertsHenry_LD_P03
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+57091
+Successfully changed project path to: C:/Users/whr5t/Desktop/GitRepos/LevelDesign_I/RobertsHenry_LD_P03
+C:/Users/whr5t/Desktop/GitRepos/LevelDesign_I/RobertsHenry_LD_P03
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 43.61 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.3f1 (76626098c1c4)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.3f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/whr5t/Desktop/GitRepos/LevelDesign_I/RobertsHenry_LD_P03/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 2060 (ID=0x1f08)
+    Vendor:   
+    VRAM:     5980 MB
+    Driver:   27.21.14.6627
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.3f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.3f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.3f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56532
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.3f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.003040 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 43.20 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.351 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.002175 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.37 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.989 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
+Refreshing native plugins compatible for Editor in 0.39 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1774 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 157.7 MB.
+System memory in use after: 157.7 MB.
+
+Unloading 74 unused Assets to reduce memory usage. Loaded Objects now: 2217.
+Total: 2.666500 ms (FindLiveObjects: 0.293700 ms CreateObjectMapping: 0.107000 ms MarkObjects: 2.005100 ms  DeleteObjects: 0.259600 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/FPS/Custom/Prefabs/ConferenceRoom.prefab
+  artifactKey: Guid(d873486650adb1948be8742f0f71c33a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FPS/Custom/Prefabs/ConferenceRoom.prefab using Guid(d873486650adb1948be8742f0f71c33a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7034233fce777d7f514999bac02a9b0c') in 0.152672 seconds
+  Import took 0.156307 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.757523 seconds.
+  path: Assets/FPS/Custom/Prefabs/ConferenceRoom.prefab
+  artifactKey: Guid(d873486650adb1948be8742f0f71c33a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FPS/Custom/Prefabs/ConferenceRoom.prefab using Guid(d873486650adb1948be8742f0f71c33a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '45a62665c70190a5aeeeace0c5dd4448') in 0.033897 seconds
+  Import took 0.037371 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.649848 seconds.
+  path: Assets/FPS/Custom/Prefabs/ConferenceRoom.prefab
+  artifactKey: Guid(d873486650adb1948be8742f0f71c33a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FPS/Custom/Prefabs/ConferenceRoom.prefab using Guid(d873486650adb1948be8742f0f71c33a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9110e7bd8740a24d44e1250550a0a530') in 0.035449 seconds
+  Import took 0.038683 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.061933 seconds.
+  path: Assets/FPS/Custom/Prefabs/ConferenceRoom.prefab
+  artifactKey: Guid(d873486650adb1948be8742f0f71c33a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FPS/Custom/Prefabs/ConferenceRoom.prefab using Guid(d873486650adb1948be8742f0f71c33a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '74e261f092ff7ccb5e3c968967e4825b') in 0.032123 seconds
+  Import took 0.035501 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.635100 seconds.
+  path: Assets/FPS/Custom/Prefabs/ConferenceRoom.prefab
+  artifactKey: Guid(d873486650adb1948be8742f0f71c33a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FPS/Custom/Prefabs/ConferenceRoom.prefab using Guid(d873486650adb1948be8742f0f71c33a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '70a53c2f10adba7a8dbf240f16798544') in 0.033997 seconds
+  Import took 0.037264 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.456383 seconds.
+  path: Assets/FPS/Custom/Prefabs/ConferenceRoom.prefab
+  artifactKey: Guid(d873486650adb1948be8742f0f71c33a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FPS/Custom/Prefabs/ConferenceRoom.prefab using Guid(d873486650adb1948be8742f0f71c33a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '680ed0d102e18d53663633345e2be6eb') in 0.034383 seconds
+  Import took 0.037855 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.253741 seconds.
+  path: Assets/FPS/Custom/Prefabs/ConferenceRoom.prefab
+  artifactKey: Guid(d873486650adb1948be8742f0f71c33a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FPS/Custom/Prefabs/ConferenceRoom.prefab using Guid(d873486650adb1948be8742f0f71c33a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6dbb67640fbc85392a5f036032d0f340') in 0.033711 seconds
+  Import took 0.036878 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.258678 seconds.
+  path: Assets/FPS/Custom/Prefabs/ConferenceRoom.prefab
+  artifactKey: Guid(d873486650adb1948be8742f0f71c33a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FPS/Custom/Prefabs/ConferenceRoom.prefab using Guid(d873486650adb1948be8742f0f71c33a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '55506728b301a178d20ed9e0051d1632') in 0.034839 seconds
+  Import took 0.038740 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.873082 seconds.
+  path: Assets/FPS/Custom/Prefabs/ConferenceRoom.prefab
+  artifactKey: Guid(d873486650adb1948be8742f0f71c33a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FPS/Custom/Prefabs/ConferenceRoom.prefab using Guid(d873486650adb1948be8742f0f71c33a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '472c45f9f577d74e31c868342476a746') in 0.030798 seconds
+  Import took 0.034328 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.077732 seconds.
+  path: Assets/FPS/Custom/Prefabs/ConferenceRoom.prefab
+  artifactKey: Guid(d873486650adb1948be8742f0f71c33a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FPS/Custom/Prefabs/ConferenceRoom.prefab using Guid(d873486650adb1948be8742f0f71c33a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f9f35c577a86d32f5b446e3695d18b3') in 0.035602 seconds
+  Import took 0.038987 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.867635 seconds.
+  path: Assets/FPS/Custom/Prefabs/ConferenceRoom.prefab
+  artifactKey: Guid(d873486650adb1948be8742f0f71c33a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FPS/Custom/Prefabs/ConferenceRoom.prefab using Guid(d873486650adb1948be8742f0f71c33a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '87940251f32e70890796c895a09893bd') in 0.032114 seconds
+  Import took 0.035811 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.927158 seconds.
+  path: Assets/FPS/Custom/Prefabs/ConferenceRoom.prefab
+  artifactKey: Guid(d873486650adb1948be8742f0f71c33a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FPS/Custom/Prefabs/ConferenceRoom.prefab using Guid(d873486650adb1948be8742f0f71c33a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '81e48638f877c7d6b14b0b6dfd7a4faf') in 0.034089 seconds
+  Import took 0.037196 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002693 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.56 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at C:/Users/whr5t/AppData/Local/Temp/2e28f9c16cdce9a419581603e4e69785/Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs:593)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at C:/Users/whr5t/AppData/Local/Temp/2e28f9c16cdce9a419581603e4e69785/Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[C:/Users/whr5t/AppData/Local/Temp/2e28f9c16cdce9a419581603e4e69785/Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs line 593]
+
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.914 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.36 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1728 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 156.9 MB.
+System memory in use after: 157.0 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2229.
+Total: 2.213500 ms (FindLiveObjects: 0.263900 ms CreateObjectMapping: 0.126400 ms MarkObjects: 1.741300 ms  DeleteObjects: 0.081000 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 638.537652 seconds.
+  path: Assets/FPS/Custom/Prefabs/ConferenceRoom.prefab
+  artifactKey: Guid(d873486650adb1948be8742f0f71c33a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FPS/Custom/Prefabs/ConferenceRoom.prefab using Guid(d873486650adb1948be8742f0f71c33a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5f4a939886481c2e3bea7e85a5b26c3c') in 0.085779 seconds
+  Import took 0.089008 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.440150 seconds.
+  path: Assets/FPS/Custom/Prefabs/ConferenceRoom.prefab
+  artifactKey: Guid(d873486650adb1948be8742f0f71c33a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FPS/Custom/Prefabs/ConferenceRoom.prefab using Guid(d873486650adb1948be8742f0f71c33a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '782f5691b9ed1762aee7406db6b7ab98') in 0.033672 seconds
+  Import took 0.036943 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.909867 seconds.
+  path: Assets/FPS/Custom/Prefabs/ConferenceRoom.prefab
+  artifactKey: Guid(d873486650adb1948be8742f0f71c33a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FPS/Custom/Prefabs/ConferenceRoom.prefab using Guid(d873486650adb1948be8742f0f71c33a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '05a3a99e6694345dfa09c094bd4fe623') in 0.032560 seconds
+  Import took 0.035895 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.537845 seconds.
+  path: Assets/FPS/Custom/Prefabs/ConferenceRoom.prefab
+  artifactKey: Guid(d873486650adb1948be8742f0f71c33a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FPS/Custom/Prefabs/ConferenceRoom.prefab using Guid(d873486650adb1948be8742f0f71c33a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '856a1f83278ff29c7ee735ad250c434d') in 0.037167 seconds
+  Import took 0.040757 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.784184 seconds.
+  path: Assets/FPS/Custom/Prefabs/ConferenceRoom.prefab
+  artifactKey: Guid(d873486650adb1948be8742f0f71c33a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FPS/Custom/Prefabs/ConferenceRoom.prefab using Guid(d873486650adb1948be8742f0f71c33a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '29fb5dbc2c254ddcfe6d76c02ec8ac69') in 0.033509 seconds
+  Import took 0.037230 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.394711 seconds.
+  path: Assets/FPS/Custom/Prefabs/ConferenceRoom.prefab
+  artifactKey: Guid(d873486650adb1948be8742f0f71c33a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FPS/Custom/Prefabs/ConferenceRoom.prefab using Guid(d873486650adb1948be8742f0f71c33a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a998a3776a36f9edde4d15ea36c39ae') in 0.038512 seconds
+  Import took 0.042665 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.319665 seconds.
+  path: Assets/FPS/Custom/Prefabs/ConferenceRoom.prefab
+  artifactKey: Guid(d873486650adb1948be8742f0f71c33a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FPS/Custom/Prefabs/ConferenceRoom.prefab using Guid(d873486650adb1948be8742f0f71c33a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f5eb1616fe654985b3d73781645ab160') in 0.033394 seconds
+  Import took 0.036680 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.565791 seconds.
+  path: Assets/FPS/Custom/Prefabs/ConferenceRoom.prefab
+  artifactKey: Guid(d873486650adb1948be8742f0f71c33a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FPS/Custom/Prefabs/ConferenceRoom.prefab using Guid(d873486650adb1948be8742f0f71c33a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d59b987cc3173eaa62d64ed3d88a34c') in 0.034889 seconds
+  Import took 0.038356 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.399844 seconds.
+  path: Assets/FPS/Custom/Prefabs/ConferenceRoom.prefab
+  artifactKey: Guid(d873486650adb1948be8742f0f71c33a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FPS/Custom/Prefabs/ConferenceRoom.prefab using Guid(d873486650adb1948be8742f0f71c33a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '51dc8b847a0afbea3f25b7608df709d6') in 0.035445 seconds
+  Import took 0.039459 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.992606 seconds.
+  path: Assets/FPS/Custom/Prefabs/ConferenceRoom.prefab
+  artifactKey: Guid(d873486650adb1948be8742f0f71c33a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FPS/Custom/Prefabs/ConferenceRoom.prefab using Guid(d873486650adb1948be8742f0f71c33a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a50844e5456c971c898b1b598b2ca813') in 0.035671 seconds
+  Import took 0.039793 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.154008 seconds.
+  path: Assets/FPS/Custom/Prefabs/ConferenceRoom.prefab
+  artifactKey: Guid(d873486650adb1948be8742f0f71c33a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FPS/Custom/Prefabs/ConferenceRoom.prefab using Guid(d873486650adb1948be8742f0f71c33a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0976d192a9798cb433278fc3b68b61c7') in 0.032295 seconds
+  Import took 0.035570 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.192217 seconds.
+  path: Assets/FPS/Custom/Prefabs/ConferenceRoom.prefab
+  artifactKey: Guid(d873486650adb1948be8742f0f71c33a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FPS/Custom/Prefabs/ConferenceRoom.prefab using Guid(d873486650adb1948be8742f0f71c33a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '74ffacbbe97f1b5d4b909faf29d13378') in 0.036428 seconds
+  Import took 0.039883 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001934 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.37 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at C:/Users/whr5t/AppData/Local/Temp/2e28f9c16cdce9a419581603e4e69785/Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs:593)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at C:/Users/whr5t/AppData/Local/Temp/2e28f9c16cdce9a419581603e4e69785/Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[C:/Users/whr5t/AppData/Local/Temp/2e28f9c16cdce9a419581603e4e69785/Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs line 593]
+
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.900 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.42 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1728 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 157.1 MB.
+System memory in use after: 157.1 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2233.
+Total: 2.968800 ms (FindLiveObjects: 0.167100 ms CreateObjectMapping: 0.059700 ms MarkObjects: 2.625500 ms  DeleteObjects: 0.114800 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 166.623315 seconds.
+  path: Assets/FPS/Custom/Prefabs/ConferenceRoom.prefab
+  artifactKey: Guid(d873486650adb1948be8742f0f71c33a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FPS/Custom/Prefabs/ConferenceRoom.prefab using Guid(d873486650adb1948be8742f0f71c33a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c74cbc2e72b1bf931386e9e0b11d9e6c') in 0.078546 seconds
+  Import took 0.081922 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.055183 seconds.
+  path: Assets/FPS/Custom/Prefabs/ConferenceRoom.prefab
+  artifactKey: Guid(d873486650adb1948be8742f0f71c33a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FPS/Custom/Prefabs/ConferenceRoom.prefab using Guid(d873486650adb1948be8742f0f71c33a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0c51510adbad910df61ec24b2db4b08d') in 0.031318 seconds
+  Import took 0.034811 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 32.041548 seconds.
+  path: Assets/FPS/Custom/Prefabs/ConferenceRoom.prefab
+  artifactKey: Guid(d873486650adb1948be8742f0f71c33a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FPS/Custom/Prefabs/ConferenceRoom.prefab using Guid(d873486650adb1948be8742f0f71c33a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6954789b7a52b449c79ce57f0b98ec91') in 0.032778 seconds
+  Import took 0.035986 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.744541 seconds.
+  path: Assets/FPS/Custom/Prefabs/ConferenceRoom.prefab
+  artifactKey: Guid(d873486650adb1948be8742f0f71c33a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FPS/Custom/Prefabs/ConferenceRoom.prefab using Guid(d873486650adb1948be8742f0f71c33a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd65343233f5095c177461b406558784a') in 0.035323 seconds
+  Import took 0.038699 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.811767 seconds.
+  path: Assets/FPS/Custom/Prefabs/ConferenceRoom.prefab
+  artifactKey: Guid(d873486650adb1948be8742f0f71c33a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FPS/Custom/Prefabs/ConferenceRoom.prefab using Guid(d873486650adb1948be8742f0f71c33a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7121d41c1558303d7f48606b4486b98a') in 0.032440 seconds
+  Import took 0.035748 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.461857 seconds.
+  path: Assets/FPS/Custom/Prefabs/ConferenceRoom.prefab
+  artifactKey: Guid(d873486650adb1948be8742f0f71c33a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FPS/Custom/Prefabs/ConferenceRoom.prefab using Guid(d873486650adb1948be8742f0f71c33a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'de772fd5e0c93c8eeba673decb904a3d') in 0.035520 seconds
+  Import took 0.038956 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.383466 seconds.
+  path: Assets/FPS/Custom/Prefabs/ConferenceRoom.prefab
+  artifactKey: Guid(d873486650adb1948be8742f0f71c33a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FPS/Custom/Prefabs/ConferenceRoom.prefab using Guid(d873486650adb1948be8742f0f71c33a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7881bd0f3412930575a8761c9f778f12') in 0.034999 seconds
+  Import took 0.038326 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.686732 seconds.
+  path: Assets/FPS/Custom/Prefabs/ConferenceRoom.prefab
+  artifactKey: Guid(d873486650adb1948be8742f0f71c33a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FPS/Custom/Prefabs/ConferenceRoom.prefab using Guid(d873486650adb1948be8742f0f71c33a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d3183909ba9c9c1111386638a070e31') in 0.035156 seconds
+  Import took 0.039138 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.713282 seconds.
+  path: Assets/FPS/Custom/Prefabs/ConferenceRoom.prefab
+  artifactKey: Guid(d873486650adb1948be8742f0f71c33a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FPS/Custom/Prefabs/ConferenceRoom.prefab using Guid(d873486650adb1948be8742f0f71c33a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '76e6b2e4f8afd7765793ef50130255ae') in 0.035267 seconds
+  Import took 0.039091 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001870 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.65 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at C:/Users/whr5t/AppData/Local/Temp/2e28f9c16cdce9a419581603e4e69785/Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs:593)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at C:/Users/whr5t/AppData/Local/Temp/2e28f9c16cdce9a419581603e4e69785/Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[C:/Users/whr5t/AppData/Local/Temp/2e28f9c16cdce9a419581603e4e69785/Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs line 593]
+
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.995 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.38 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1728 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 157.3 MB.
+System memory in use after: 157.3 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2237.
+Total: 3.210800 ms (FindLiveObjects: 0.283800 ms CreateObjectMapping: 0.109100 ms MarkObjects: 2.729200 ms  DeleteObjects: 0.087200 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 181.886332 seconds.
+  path: Assets/FPS/Custom/Prefabs/ConferenceRoom.prefab
+  artifactKey: Guid(d873486650adb1948be8742f0f71c33a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FPS/Custom/Prefabs/ConferenceRoom.prefab using Guid(d873486650adb1948be8742f0f71c33a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '81609a0e60f436b4f365f53eb3c022b9') in 0.097721 seconds
+  Import took 0.101679 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.278082 seconds.
+  path: Assets/FPS/Custom/Prefabs/ConferenceRoom.prefab
+  artifactKey: Guid(d873486650adb1948be8742f0f71c33a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FPS/Custom/Prefabs/ConferenceRoom.prefab using Guid(d873486650adb1948be8742f0f71c33a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f8cada6ae7df40e6efeebb63c65a0e05') in 0.033212 seconds
+  Import took 0.037131 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.367429 seconds.
+  path: Assets/FPS/Custom/Prefabs/ConferenceRoom.prefab
+  artifactKey: Guid(d873486650adb1948be8742f0f71c33a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FPS/Custom/Prefabs/ConferenceRoom.prefab using Guid(d873486650adb1948be8742f0f71c33a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4a92cff577638cbb09eaac95f6e5ed94') in 0.034572 seconds
+  Import took 0.038217 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.512976 seconds.
+  path: Assets/FPS/Custom/Prefabs/ConferenceRoom.prefab
+  artifactKey: Guid(d873486650adb1948be8742f0f71c33a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FPS/Custom/Prefabs/ConferenceRoom.prefab using Guid(d873486650adb1948be8742f0f71c33a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '55d5690b35711bbd65b6a51551830653') in 0.037795 seconds
+  Import took 0.041966 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.697335 seconds.
+  path: Assets/FPS/Custom/Prefabs/ConferenceRoom.prefab
+  artifactKey: Guid(d873486650adb1948be8742f0f71c33a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FPS/Custom/Prefabs/ConferenceRoom.prefab using Guid(d873486650adb1948be8742f0f71c33a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '67cd90d37977612fe2510ad252010f5f') in 0.035321 seconds
+  Import took 0.039230 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001827 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.40 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at C:/Users/whr5t/AppData/Local/Temp/2e28f9c16cdce9a419581603e4e69785/Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs:593)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at C:/Users/whr5t/AppData/Local/Temp/2e28f9c16cdce9a419581603e4e69785/Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[C:/Users/whr5t/AppData/Local/Temp/2e28f9c16cdce9a419581603e4e69785/Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs line 593]
+
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.084 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.55 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1728 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 157.3 MB.
+System memory in use after: 157.4 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2241.
+Total: 2.097400 ms (FindLiveObjects: 0.206900 ms CreateObjectMapping: 0.066000 ms MarkObjects: 1.710800 ms  DeleteObjects: 0.088400 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 350.627025 seconds.
+  path: Assets/FPS/Custom/Prefabs/ConferenceRoom.prefab
+  artifactKey: Guid(d873486650adb1948be8742f0f71c33a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FPS/Custom/Prefabs/ConferenceRoom.prefab using Guid(d873486650adb1948be8742f0f71c33a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e73aa84ec72e9a953a9d9c6fc09d9187') in 0.084218 seconds
+  Import took 0.088081 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.915120 seconds.
+  path: Assets/FPS/Custom/Prefabs/ConferenceRoom.prefab
+  artifactKey: Guid(d873486650adb1948be8742f0f71c33a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FPS/Custom/Prefabs/ConferenceRoom.prefab using Guid(d873486650adb1948be8742f0f71c33a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a5e5dcdaa6eb68fc6a5fa6c71bce30ed') in 0.035014 seconds
+  Import took 0.038899 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.514818 seconds.
+  path: Assets/FPS/Custom/Prefabs/ConferenceRoom.prefab
+  artifactKey: Guid(d873486650adb1948be8742f0f71c33a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FPS/Custom/Prefabs/ConferenceRoom.prefab using Guid(d873486650adb1948be8742f0f71c33a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b5bd512b9b5882d64aa81617388327b') in 0.031771 seconds
+  Import took 0.035090 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.567095 seconds.
+  path: Assets/FPS/Custom/Prefabs/ConferenceRoom.prefab
+  artifactKey: Guid(d873486650adb1948be8742f0f71c33a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FPS/Custom/Prefabs/ConferenceRoom.prefab using Guid(d873486650adb1948be8742f0f71c33a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8f0068aff093b636afbdca68392c1c8b') in 0.034135 seconds
+  Import took 0.037783 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.345193 seconds.
+  path: Assets/FPS/Custom/Prefabs/ConferenceRoom.prefab
+  artifactKey: Guid(d873486650adb1948be8742f0f71c33a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FPS/Custom/Prefabs/ConferenceRoom.prefab using Guid(d873486650adb1948be8742f0f71c33a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb43086a451991589fb985cb624eadb5') in 0.033240 seconds
+  Import took 0.036673 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.087032 seconds.
+  path: Assets/FPS/Custom/Prefabs/ConferenceRoom.prefab
+  artifactKey: Guid(d873486650adb1948be8742f0f71c33a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FPS/Custom/Prefabs/ConferenceRoom.prefab using Guid(d873486650adb1948be8742f0f71c33a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f4ef9fd70c7d1edfa078ac33d505c212') in 0.035451 seconds
+  Import took 0.038667 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.911075 seconds.
+  path: Assets/FPS/Custom/Prefabs/ConferenceRoom.prefab
+  artifactKey: Guid(d873486650adb1948be8742f0f71c33a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FPS/Custom/Prefabs/ConferenceRoom.prefab using Guid(d873486650adb1948be8742f0f71c33a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '04736ad64ae6f7e273c1ce40c0e88f94') in 0.037162 seconds
+  Import took 0.040332 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.883911 seconds.
+  path: Assets/FPS/Custom/Prefabs/ConferenceRoom.prefab
+  artifactKey: Guid(d873486650adb1948be8742f0f71c33a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FPS/Custom/Prefabs/ConferenceRoom.prefab using Guid(d873486650adb1948be8742f0f71c33a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '10e9c7d700947e110af1d17dd6357ce3') in 0.040294 seconds
+  Import took 0.043891 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.676636 seconds.
+  path: Assets/FPS/Custom/Prefabs/ConferenceRoom.prefab
+  artifactKey: Guid(d873486650adb1948be8742f0f71c33a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FPS/Custom/Prefabs/ConferenceRoom.prefab using Guid(d873486650adb1948be8742f0f71c33a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eaea43ef138537134e21a7f96a118a3e') in 0.032593 seconds
+  Import took 0.035996 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.936111 seconds.
+  path: Assets/FPS/Custom/Prefabs/ConferenceRoom.prefab
+  artifactKey: Guid(d873486650adb1948be8742f0f71c33a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FPS/Custom/Prefabs/ConferenceRoom.prefab using Guid(d873486650adb1948be8742f0f71c33a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e1eac0d883bf7d5c126ec0077acb25d') in 0.034733 seconds
+  Import took 0.038493 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.686361 seconds.
+  path: Assets/FPS/Custom/Prefabs/ConferenceRoom.prefab
+  artifactKey: Guid(d873486650adb1948be8742f0f71c33a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FPS/Custom/Prefabs/ConferenceRoom.prefab using Guid(d873486650adb1948be8742f0f71c33a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '789347e0d6848fd03071d50baca84f29') in 0.035292 seconds
+  Import took 0.038685 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.289231 seconds.
+  path: Assets/FPS/Custom/Prefabs/ConferenceRoom.prefab
+  artifactKey: Guid(d873486650adb1948be8742f0f71c33a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FPS/Custom/Prefabs/ConferenceRoom.prefab using Guid(d873486650adb1948be8742f0f71c33a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9c691aab0eb405310b466a9313d6c409') in 0.031262 seconds
+  Import took 0.034836 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.511223 seconds.
+  path: Assets/FPS/Custom/Prefabs/ConferenceRoom.prefab
+  artifactKey: Guid(d873486650adb1948be8742f0f71c33a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FPS/Custom/Prefabs/ConferenceRoom.prefab using Guid(d873486650adb1948be8742f0f71c33a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6622f16eac4558942bdc2be47c8fa30c') in 0.038510 seconds
+  Import took 0.042201 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.737204 seconds.
+  path: Assets/FPS/Custom/Prefabs/ConferenceRoom.prefab
+  artifactKey: Guid(d873486650adb1948be8742f0f71c33a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FPS/Custom/Prefabs/ConferenceRoom.prefab using Guid(d873486650adb1948be8742f0f71c33a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9caa016510826541927e750609a2ee80') in 0.032827 seconds
+  Import took 0.036189 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.515437 seconds.
+  path: Assets/FPS/Custom/Prefabs/ConferenceRoom.prefab
+  artifactKey: Guid(d873486650adb1948be8742f0f71c33a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FPS/Custom/Prefabs/ConferenceRoom.prefab using Guid(d873486650adb1948be8742f0f71c33a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00303e96d7e24fb543656ce80d8f90d5') in 0.033124 seconds
+  Import took 0.036374 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.552544 seconds.
+  path: Assets/FPS/Custom/Prefabs/ConferenceRoom.prefab
+  artifactKey: Guid(d873486650adb1948be8742f0f71c33a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FPS/Custom/Prefabs/ConferenceRoom.prefab using Guid(d873486650adb1948be8742f0f71c33a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8fcfd74c94b7cc8c335bd872ce3a2086') in 0.037792 seconds
+  Import took 0.041176 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.882854 seconds.
+  path: Assets/FPS/Custom/Prefabs/ConferenceRoom.prefab
+  artifactKey: Guid(d873486650adb1948be8742f0f71c33a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FPS/Custom/Prefabs/ConferenceRoom.prefab using Guid(d873486650adb1948be8742f0f71c33a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '560821c0f4bac3da46c2781777699668') in 0.033785 seconds
+  Import took 0.037080 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.362435 seconds.
+  path: Assets/FPS/Custom/Prefabs/ConferenceRoom.prefab
+  artifactKey: Guid(d873486650adb1948be8742f0f71c33a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FPS/Custom/Prefabs/ConferenceRoom.prefab using Guid(d873486650adb1948be8742f0f71c33a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2eb644fc3f6a23fda04065309e650376') in 0.034740 seconds
+  Import took 0.037963 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.317911 seconds.
+  path: Assets/FPS/Custom/Prefabs/ConferenceRoom.prefab
+  artifactKey: Guid(d873486650adb1948be8742f0f71c33a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FPS/Custom/Prefabs/ConferenceRoom.prefab using Guid(d873486650adb1948be8742f0f71c33a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc781f22de7874223bd1dadccbf17bdd') in 0.033369 seconds
+  Import took 0.036919 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.085683 seconds.
+  path: Assets/FPS/Custom/Prefabs/ConferenceRoom.prefab
+  artifactKey: Guid(d873486650adb1948be8742f0f71c33a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FPS/Custom/Prefabs/ConferenceRoom.prefab using Guid(d873486650adb1948be8742f0f71c33a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e3e1da5b6a671ee1370af10302158a68') in 0.035476 seconds
+  Import took 0.038941 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.762600 seconds.
+  path: Assets/FPS/Custom/Prefabs/ConferenceRoom.prefab
+  artifactKey: Guid(d873486650adb1948be8742f0f71c33a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FPS/Custom/Prefabs/ConferenceRoom.prefab using Guid(d873486650adb1948be8742f0f71c33a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ff9ae2926c94d2e4f5b04a125ea4021') in 0.036772 seconds
+  Import took 0.040738 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.888378 seconds.
+  path: Assets/FPS/Custom/Prefabs/ConferenceRoom.prefab
+  artifactKey: Guid(d873486650adb1948be8742f0f71c33a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FPS/Custom/Prefabs/ConferenceRoom.prefab using Guid(d873486650adb1948be8742f0f71c33a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd2364c97c9cb51e76fe72037c89f5ba1') in 0.030677 seconds
+  Import took 0.034134 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.868813 seconds.
+  path: Assets/FPS/Custom/Prefabs/ConferenceRoom.prefab
+  artifactKey: Guid(d873486650adb1948be8742f0f71c33a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FPS/Custom/Prefabs/ConferenceRoom.prefab using Guid(d873486650adb1948be8742f0f71c33a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c6380f6e56c67f8133e772aebf709ed1') in 0.035420 seconds
+  Import took 0.038969 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001913 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.68 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at C:/Users/whr5t/AppData/Local/Temp/2e28f9c16cdce9a419581603e4e69785/Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs:593)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at C:/Users/whr5t/AppData/Local/Temp/2e28f9c16cdce9a419581603e4e69785/Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[C:/Users/whr5t/AppData/Local/Temp/2e28f9c16cdce9a419581603e4e69785/Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs line 593]
+
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.842 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.36 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1728 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 157.7 MB.
+System memory in use after: 157.8 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2245.
+Total: 2.125800 ms (FindLiveObjects: 0.181900 ms CreateObjectMapping: 0.070000 ms MarkObjects: 1.776000 ms  DeleteObjects: 0.096800 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 175.749183 seconds.
+  path: Assets/FPS/Custom/Prefabs/ConferenceRoom.prefab
+  artifactKey: Guid(d873486650adb1948be8742f0f71c33a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FPS/Custom/Prefabs/ConferenceRoom.prefab using Guid(d873486650adb1948be8742f0f71c33a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f20caaa92dd6088e8916ff95d41de86e') in 0.089688 seconds
+  Import took 0.093091 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001896 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.36 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at C:/Users/whr5t/AppData/Local/Temp/2e28f9c16cdce9a419581603e4e69785/Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs:593)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at C:/Users/whr5t/AppData/Local/Temp/2e28f9c16cdce9a419581603e4e69785/Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[C:/Users/whr5t/AppData/Local/Temp/2e28f9c16cdce9a419581603e4e69785/Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs line 593]
+
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.858 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.45 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1728 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 157.7 MB.
+System memory in use after: 157.8 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2249.
+Total: 3.617000 ms (FindLiveObjects: 0.389700 ms CreateObjectMapping: 0.089800 ms MarkObjects: 3.021200 ms  DeleteObjects: 0.114000 ms)
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 1.88 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 123.6 MB.
+System memory in use after: 123.7 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 2249.
+Total: 2.776300 ms (FindLiveObjects: 0.186500 ms CreateObjectMapping: 0.067500 ms MarkObjects: 2.425000 ms  DeleteObjects: 0.096000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001886 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.37 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at C:/Users/whr5t/AppData/Local/Temp/2e28f9c16cdce9a419581603e4e69785/Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs:593)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at C:/Users/whr5t/AppData/Local/Temp/2e28f9c16cdce9a419581603e4e69785/Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[C:/Users/whr5t/AppData/Local/Temp/2e28f9c16cdce9a419581603e4e69785/Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs line 593]
+
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.863 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.39 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1728 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 157.7 MB.
+System memory in use after: 157.8 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2252.
+Total: 2.009800 ms (FindLiveObjects: 0.167900 ms CreateObjectMapping: 0.057100 ms MarkObjects: 1.695800 ms  DeleteObjects: 0.088200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001924 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.38 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at C:/Users/whr5t/AppData/Local/Temp/2e28f9c16cdce9a419581603e4e69785/Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs:593)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at C:/Users/whr5t/AppData/Local/Temp/2e28f9c16cdce9a419581603e4e69785/Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[C:/Users/whr5t/AppData/Local/Temp/2e28f9c16cdce9a419581603e4e69785/Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs line 593]
+
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.870 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.36 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1728 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 157.7 MB.
+System memory in use after: 157.8 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2255.
+Total: 2.227600 ms (FindLiveObjects: 0.260600 ms CreateObjectMapping: 0.115200 ms MarkObjects: 1.762500 ms  DeleteObjects: 0.088400 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 1227.539558 seconds.
+  path: Assets/FPS/Custom/Prefabs/Office.prefab
+  artifactKey: Guid(b6d8784caf09f3e4bafe8e52bc295e5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FPS/Custom/Prefabs/Office.prefab using Guid(b6d8784caf09f3e4bafe8e52bc295e5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '01b6558a8ee9c37c95f4a826d058c093') in 0.058280 seconds
+  Import took 0.061871 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.466838 seconds.
+  path: Assets/FPS/Custom/Prefabs/Office.prefab
+  artifactKey: Guid(b6d8784caf09f3e4bafe8e52bc295e5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FPS/Custom/Prefabs/Office.prefab using Guid(b6d8784caf09f3e4bafe8e52bc295e5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '31db0ed404cd4df2eb0c728574d42416') in 0.017473 seconds
+  Import took 0.020500 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.284075 seconds.
+  path: Assets/FPS/Custom/Prefabs/Office.prefab
+  artifactKey: Guid(b6d8784caf09f3e4bafe8e52bc295e5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FPS/Custom/Prefabs/Office.prefab using Guid(b6d8784caf09f3e4bafe8e52bc295e5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f1421f69bc23caf556b5a4b27a14334') in 0.016131 seconds
+  Import took 0.019125 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.745405 seconds.
+  path: Assets/FPS/Custom/Prefabs/Office.prefab
+  artifactKey: Guid(b6d8784caf09f3e4bafe8e52bc295e5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FPS/Custom/Prefabs/Office.prefab using Guid(b6d8784caf09f3e4bafe8e52bc295e5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '48cce2a9c8e483e3717fded3097d5424') in 0.015626 seconds
+  Import took 0.018747 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.314976 seconds.
+  path: Assets/FPS/Custom/Prefabs/Office.prefab
+  artifactKey: Guid(b6d8784caf09f3e4bafe8e52bc295e5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FPS/Custom/Prefabs/Office.prefab using Guid(b6d8784caf09f3e4bafe8e52bc295e5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dbf400ff0d81ee622b22467261c701b8') in 0.017868 seconds
+  Import took 0.021419 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.725946 seconds.
+  path: Assets/FPS/Custom/Prefabs/Office.prefab
+  artifactKey: Guid(b6d8784caf09f3e4bafe8e52bc295e5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FPS/Custom/Prefabs/Office.prefab using Guid(b6d8784caf09f3e4bafe8e52bc295e5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d574307554d796c8c1a4ab472a75ee1') in 0.017383 seconds
+  Import took 0.020801 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.616748 seconds.
+  path: Assets/FPS/Custom/Prefabs/Office.prefab
+  artifactKey: Guid(b6d8784caf09f3e4bafe8e52bc295e5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FPS/Custom/Prefabs/Office.prefab using Guid(b6d8784caf09f3e4bafe8e52bc295e5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '58edbfde381b22307d686c3d7b692488') in 0.015737 seconds
+  Import took 0.019304 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.537455 seconds.
+  path: Assets/FPS/Custom/Prefabs/Office.prefab
+  artifactKey: Guid(b6d8784caf09f3e4bafe8e52bc295e5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FPS/Custom/Prefabs/Office.prefab using Guid(b6d8784caf09f3e4bafe8e52bc295e5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '84b4a69668615302889aac0d63429ef9') in 0.016339 seconds
+  Import took 0.019584 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.639343 seconds.
+  path: Assets/FPS/Custom/Prefabs/Office.prefab
+  artifactKey: Guid(b6d8784caf09f3e4bafe8e52bc295e5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FPS/Custom/Prefabs/Office.prefab using Guid(b6d8784caf09f3e4bafe8e52bc295e5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd7597dcaa19706fa5542451f94bef8e7') in 0.016564 seconds
+  Import took 0.019821 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.495553 seconds.
+  path: Assets/FPS/Custom/Prefabs/Office.prefab
+  artifactKey: Guid(b6d8784caf09f3e4bafe8e52bc295e5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FPS/Custom/Prefabs/Office.prefab using Guid(b6d8784caf09f3e4bafe8e52bc295e5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b6a4ab7009c3a3a7adc0b195f0927c9e') in 0.015292 seconds
+  Import took 0.018308 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.063750 seconds.
+  path: Assets/FPS/Custom/Prefabs/Office.prefab
+  artifactKey: Guid(b6d8784caf09f3e4bafe8e52bc295e5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FPS/Custom/Prefabs/Office.prefab using Guid(b6d8784caf09f3e4bafe8e52bc295e5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b6788396fb1a84e3b3bfa909b7c4c38b') in 0.017395 seconds
+  Import took 0.020944 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.443868 seconds.
+  path: Assets/FPS/Custom/Prefabs/Office.prefab
+  artifactKey: Guid(b6d8784caf09f3e4bafe8e52bc295e5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FPS/Custom/Prefabs/Office.prefab using Guid(b6d8784caf09f3e4bafe8e52bc295e5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b274178503fc6684d4b64688e24978bb') in 0.015517 seconds
+  Import took 0.018499 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.646771 seconds.
+  path: Assets/FPS/Custom/Prefabs/Office.prefab
+  artifactKey: Guid(b6d8784caf09f3e4bafe8e52bc295e5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FPS/Custom/Prefabs/Office.prefab using Guid(b6d8784caf09f3e4bafe8e52bc295e5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aec8ffc487d8e2a7578acd610f7b237a') in 0.015615 seconds
+  Import took 0.018741 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.480816 seconds.
+  path: Assets/FPS/Custom/Prefabs/Office.prefab
+  artifactKey: Guid(b6d8784caf09f3e4bafe8e52bc295e5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FPS/Custom/Prefabs/Office.prefab using Guid(b6d8784caf09f3e4bafe8e52bc295e5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c85dafa86a2f266f63796455dca31d3f') in 0.017436 seconds
+  Import took 0.020515 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.663292 seconds.
+  path: Assets/FPS/Custom/Prefabs/Office.prefab
+  artifactKey: Guid(b6d8784caf09f3e4bafe8e52bc295e5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FPS/Custom/Prefabs/Office.prefab using Guid(b6d8784caf09f3e4bafe8e52bc295e5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fa120d8cd6bc359af76617c30be6dd03') in 0.020070 seconds
+  Import took 0.023516 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.778555 seconds.
+  path: Assets/FPS/Custom/Prefabs/Office.prefab
+  artifactKey: Guid(b6d8784caf09f3e4bafe8e52bc295e5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FPS/Custom/Prefabs/Office.prefab using Guid(b6d8784caf09f3e4bafe8e52bc295e5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6aeff74152ff73716575a573054f52ca') in 0.016879 seconds
+  Import took 0.019834 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 19.588979 seconds.
+  path: Assets/FPS/Custom/Prefabs/Office.prefab
+  artifactKey: Guid(b6d8784caf09f3e4bafe8e52bc295e5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FPS/Custom/Prefabs/Office.prefab using Guid(b6d8784caf09f3e4bafe8e52bc295e5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd8052fca4e44915f7b70e321f00b1dc') in 0.015200 seconds
+  Import took 0.018190 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.912454 seconds.
+  path: Assets/FPS/Custom/Prefabs/Office.prefab
+  artifactKey: Guid(b6d8784caf09f3e4bafe8e52bc295e5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FPS/Custom/Prefabs/Office.prefab using Guid(b6d8784caf09f3e4bafe8e52bc295e5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ae7d5bb8d15c396d5ce01aa7c359df2') in 0.020236 seconds
+  Import took 0.025080 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.442976 seconds.
+  path: Assets/FPS/Custom/Prefabs/Office.prefab
+  artifactKey: Guid(b6d8784caf09f3e4bafe8e52bc295e5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FPS/Custom/Prefabs/Office.prefab using Guid(b6d8784caf09f3e4bafe8e52bc295e5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '01560885de6a6d5a5043026fa7fd1405') in 0.016257 seconds
+  Import took 0.019633 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.495627 seconds.
+  path: Assets/FPS/Custom/Prefabs/Office.prefab
+  artifactKey: Guid(b6d8784caf09f3e4bafe8e52bc295e5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FPS/Custom/Prefabs/Office.prefab using Guid(b6d8784caf09f3e4bafe8e52bc295e5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eeb9b51816c8e73b72c113c32bca0b87') in 0.023177 seconds
+  Import took 0.028948 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.021743 seconds.
+  path: Assets/FPS/Custom/Prefabs/Office.prefab
+  artifactKey: Guid(b6d8784caf09f3e4bafe8e52bc295e5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FPS/Custom/Prefabs/Office.prefab using Guid(b6d8784caf09f3e4bafe8e52bc295e5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7ec655d14dc032dbcd362c79c6a8772e') in 0.015993 seconds
+  Import took 0.019604 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.298431 seconds.
+  path: Assets/FPS/Custom/Prefabs/Office.prefab
+  artifactKey: Guid(b6d8784caf09f3e4bafe8e52bc295e5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FPS/Custom/Prefabs/Office.prefab using Guid(b6d8784caf09f3e4bafe8e52bc295e5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '17b67d85e68230209a5213ece232dcbf') in 0.015489 seconds
+  Import took 0.019020 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.337146 seconds.
+  path: Assets/FPS/Custom/Prefabs/Office.prefab
+  artifactKey: Guid(b6d8784caf09f3e4bafe8e52bc295e5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FPS/Custom/Prefabs/Office.prefab using Guid(b6d8784caf09f3e4bafe8e52bc295e5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '365d0fa2d6a9415f49dfbf3311a33558') in 0.016254 seconds
+  Import took 0.019601 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.110423 seconds.
+  path: Assets/FPS/Custom/Prefabs/Office.prefab
+  artifactKey: Guid(b6d8784caf09f3e4bafe8e52bc295e5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FPS/Custom/Prefabs/Office.prefab using Guid(b6d8784caf09f3e4bafe8e52bc295e5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '81bffb2662144e896e7b26d4c8ba8152') in 0.015527 seconds
+  Import took 0.018539 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.631128 seconds.
+  path: Assets/FPS/Custom/Prefabs/Office.prefab
+  artifactKey: Guid(b6d8784caf09f3e4bafe8e52bc295e5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FPS/Custom/Prefabs/Office.prefab using Guid(b6d8784caf09f3e4bafe8e52bc295e5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '03d2206d5985b3aaf5173bcaf9c7b8e4') in 0.016274 seconds
+  Import took 0.019845 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 39.905147 seconds.
+  path: Assets/FPS/Custom/Prefabs/Office.prefab
+  artifactKey: Guid(b6d8784caf09f3e4bafe8e52bc295e5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FPS/Custom/Prefabs/Office.prefab using Guid(b6d8784caf09f3e4bafe8e52bc295e5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dc4e09e0162dc5f3991191644e1dd91a') in 0.016341 seconds
+  Import took 0.019400 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.075835 seconds.
+  path: Assets/FPS/Custom/Prefabs/Office.prefab
+  artifactKey: Guid(b6d8784caf09f3e4bafe8e52bc295e5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FPS/Custom/Prefabs/Office.prefab using Guid(b6d8784caf09f3e4bafe8e52bc295e5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a7871d78a0f89cd300f11b7c2d994a4d') in 0.015942 seconds
+  Import took 0.018944 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.502192 seconds.
+  path: Assets/FPS/Custom/Prefabs/Office.prefab
+  artifactKey: Guid(b6d8784caf09f3e4bafe8e52bc295e5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FPS/Custom/Prefabs/Office.prefab using Guid(b6d8784caf09f3e4bafe8e52bc295e5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e5a50ef360e39d835a7a4c2fc1ebca3') in 0.015932 seconds
+  Import took 0.019042 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.272943 seconds.
+  path: Assets/FPS/Custom/Prefabs/Office.prefab
+  artifactKey: Guid(b6d8784caf09f3e4bafe8e52bc295e5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FPS/Custom/Prefabs/Office.prefab using Guid(b6d8784caf09f3e4bafe8e52bc295e5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4059e3c752687a318e96edcf77137381') in 0.020084 seconds
+  Import took 0.024000 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 27.496958 seconds.
+  path: Assets/FPS/Custom/Prefabs/ConferenceRoom.prefab
+  artifactKey: Guid(d873486650adb1948be8742f0f71c33a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FPS/Custom/Prefabs/ConferenceRoom.prefab using Guid(d873486650adb1948be8742f0f71c33a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a219ba71b4bc631af7f6a29403f688fe') in 0.035836 seconds
+  Import took 0.039019 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.266196 seconds.
+  path: Assets/FPS/Custom/Prefabs/ConferenceRoom.prefab
+  artifactKey: Guid(d873486650adb1948be8742f0f71c33a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FPS/Custom/Prefabs/ConferenceRoom.prefab using Guid(d873486650adb1948be8742f0f71c33a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5dc760734d36aa02e378111b0961bb73') in 0.034448 seconds
+  Import took 0.038400 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.114661 seconds.
+  path: Assets/FPS/Custom/Prefabs/ConferenceRoom.prefab
+  artifactKey: Guid(d873486650adb1948be8742f0f71c33a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FPS/Custom/Prefabs/ConferenceRoom.prefab using Guid(d873486650adb1948be8742f0f71c33a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '18374d0db87859b83f68c092136f068c') in 0.032762 seconds
+  Import took 0.036405 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.524956 seconds.
+  path: Assets/FPS/Custom/Prefabs/ConferenceRoom.prefab
+  artifactKey: Guid(d873486650adb1948be8742f0f71c33a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FPS/Custom/Prefabs/ConferenceRoom.prefab using Guid(d873486650adb1948be8742f0f71c33a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '074666ca4ed31f33b992e2481d5a9e34') in 0.035234 seconds
+  Import took 0.038656 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.728118 seconds.
+  path: Assets/FPS/Custom/Prefabs/ConferenceRoom.prefab
+  artifactKey: Guid(d873486650adb1948be8742f0f71c33a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FPS/Custom/Prefabs/ConferenceRoom.prefab using Guid(d873486650adb1948be8742f0f71c33a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7fe40b3e7b23bfc09c69ade10b6f030c') in 0.034429 seconds
+  Import took 0.037919 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.374693 seconds.
+  path: Assets/FPS/Custom/Prefabs/ConferenceRoom.prefab
+  artifactKey: Guid(d873486650adb1948be8742f0f71c33a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FPS/Custom/Prefabs/ConferenceRoom.prefab using Guid(d873486650adb1948be8742f0f71c33a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e7b44beb9806a642bd61d9e5a298e014') in 0.032637 seconds
+  Import took 0.035962 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.558861 seconds.
+  path: Assets/FPS/Custom/Prefabs/ConferenceRoom.prefab
+  artifactKey: Guid(d873486650adb1948be8742f0f71c33a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FPS/Custom/Prefabs/ConferenceRoom.prefab using Guid(d873486650adb1948be8742f0f71c33a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '46554073a7f313483a6016b92f0eec50') in 0.035087 seconds
+  Import took 0.038447 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002110 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.40 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at C:/Users/whr5t/AppData/Local/Temp/2e28f9c16cdce9a419581603e4e69785/Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs:593)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at C:/Users/whr5t/AppData/Local/Temp/2e28f9c16cdce9a419581603e4e69785/Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[C:/Users/whr5t/AppData/Local/Temp/2e28f9c16cdce9a419581603e4e69785/Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs line 593]
+
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.995 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.36 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1728 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 157.8 MB.
+System memory in use after: 157.9 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2259.
+Total: 2.280500 ms (FindLiveObjects: 0.226700 ms CreateObjectMapping: 0.081500 ms MarkObjects: 1.883300 ms  DeleteObjects: 0.087300 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002043 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.37 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at C:/Users/whr5t/AppData/Local/Temp/2e28f9c16cdce9a419581603e4e69785/Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs:593)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at C:/Users/whr5t/AppData/Local/Temp/2e28f9c16cdce9a419581603e4e69785/Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[C:/Users/whr5t/AppData/Local/Temp/2e28f9c16cdce9a419581603e4e69785/Library/PackageCache/com.unity.probuilder@4.5.0/Editor/EditorCore/EditorUtility.cs line 593]
+
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.905 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.40 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1728 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 157.8 MB.
+System memory in use after: 157.9 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2262.
+Total: 2.548200 ms (FindLiveObjects: 0.296900 ms CreateObjectMapping: 0.078600 ms MarkObjects: 2.051200 ms  DeleteObjects: 0.119800 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file

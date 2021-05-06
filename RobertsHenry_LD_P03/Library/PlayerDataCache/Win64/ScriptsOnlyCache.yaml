@@ -1,15 +1,16 @@
 ScriptsOnlyBuild:
   usedScripts:
     Assembly-CSharp.dll:
+    - BossDefeated
     - Cutscene
+    - FallingWallEvent
+    - Rocket
+    - WallExplosionEvent
     NavMeshComponents.dll:
     - UnityEngine.AI.NavMeshModifier
     - UnityEngine.AI.NavMeshSurface
     NavMeshComponentsEditor.dll:
     - UnityEditor.AI.NavMeshAssetManager
-    Unity.ProBuilder.Editor.dll:
-    - UnityEditor.ProBuilder.EditorToolbar
-    - UnityEditor.ProBuilder.ProBuilderEditor
     Unity.ProBuilder.dll:
     - UnityEngine.ProBuilder.PolyShape
     - UnityEngine.ProBuilder.ProBuilderMesh
@@ -24,14 +25,17 @@ ScriptsOnlyBuild:
     UnityEditor.Graphs.dll:
     - UnityEditor.Graphs.AnimationBlendTree.Graph
     - UnityEditor.Graphs.AnimationBlendTree.GraphGUI
+    - UnityEditor.Graphs.AnimationStateMachine.AnyStateNode
     - UnityEditor.Graphs.AnimationStateMachine.Graph
     - UnityEditor.Graphs.AnimationStateMachine.GraphGUI
+    - UnityEditor.Graphs.AnimationStateMachine.StateNode
     - UnityEditor.Graphs.AnimatorControllerTool
     UnityEditor.TestRunner.dll:
     - UnityEditor.TestTools.TestRunner.Api.CallbacksHolder
     - UnityEditor.TestTools.TestRunner.TestListCacheData
     - UnityEditor.TestTools.TestRunner.TestRun.TestJobDataHolder
     UnityEngine.UI.dll:
+    - UnityEngine.EventSystems.BaseInput
     - UnityEngine.EventSystems.EventSystem
     - UnityEngine.EventSystems.StandaloneInputModule
     - UnityEngine.UI.Button
@@ -57,6 +61,7 @@ ScriptsOnlyBuild:
     - Unity.FPS.Game.Actor
     - Unity.FPS.Game.ActorsManager
     - Unity.FPS.Game.AudioManager
+    - Unity.FPS.Game.DamageArea
     - Unity.FPS.Game.Damageable
     - Unity.FPS.Game.GameFlowManager
     - Unity.FPS.Game.Health
@@ -66,10 +71,13 @@ ScriptsOnlyBuild:
     - Unity.FPS.Game.TimedSelfDestruct
     - Unity.FPS.Game.WeaponController
     fps.Gameplay.dll:
+    - Unity.FPS.Gameplay.ChargedWeaponEffectsHandler
     - Unity.FPS.Gameplay.HealthPickup
     - Unity.FPS.Gameplay.Jetpack
     - Unity.FPS.Gameplay.JetpackPickup
     - Unity.FPS.Gameplay.ObjectiveKillEnemies
+    - Unity.FPS.Gameplay.ObjectivePickupItem
+    - Unity.FPS.Gameplay.ObjectiveReachPoint
     - Unity.FPS.Gameplay.OverheatBehavior
     - Unity.FPS.Gameplay.PlayerCharacterController
     - Unity.FPS.Gameplay.PlayerInputHandler
@@ -90,6 +98,8 @@ ScriptsOnlyBuild:
     - Unity.FPS.UI.FramerateCounter
     - Unity.FPS.UI.InGameMenuManager
     - Unity.FPS.UI.JetpackCounter
+    - Unity.FPS.UI.LoadSceneButton
+    - Unity.FPS.UI.MenuNavigation
     - Unity.FPS.UI.NotificationHUDManager
     - Unity.FPS.UI.NotificationToast
     - Unity.FPS.UI.ObjectiveHUDManager
@@ -170,6 +180,8 @@ ScriptsOnlyBuild:
       Script: {instanceID: 1736}
     - Class: 114
       Script: {instanceID: 1752}
+    - Class: 114
+      Script: {instanceID: 1798}
     - Class: 114
       Script: {instanceID: 1816}
     - Class: 114
@@ -275,6 +287,8 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 4218}
     - Class: 114
+      Script: {instanceID: 4256}
+    - Class: 114
       Script: {instanceID: 4288}
     - Class: 114
       Script: {instanceID: 4378}
@@ -285,13 +299,27 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 4504}
     - Class: 114
+      Script: {instanceID: 4508}
+    - Class: 114
+      Script: {instanceID: 4562}
+    - Class: 114
       Script: {instanceID: 4652}
     - Class: 114
+      Script: {instanceID: 4726}
+    - Class: 114
       Script: {instanceID: 4732}
+    - Class: 114
+      Script: {instanceID: 4776}
+    - Class: 114
+      Script: {instanceID: 4882}
     - Class: 114
       Script: {instanceID: 4890}
     - Class: 114
       Script: {instanceID: 4902}
+    - Class: 114
+      Script: {instanceID: 2124946}
+    - Class: 114
+      Script: {instanceID: 3208040}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 119
@@ -335,6 +363,112 @@ ScriptsOnlyBuild:
     - Class: 245
       Script: {instanceID: 0}
     - Class: 850595691
+      Script: {instanceID: 0}
+    Assets/FPS/Scenes/LoseScene.unity:
+    - Class: 1
+      Script: {instanceID: 0}
+    - Class: 4
+      Script: {instanceID: 0}
+    - Class: 20
+      Script: {instanceID: 0}
+    - Class: 21
+      Script: {instanceID: 0}
+    - Class: 28
+      Script: {instanceID: 0}
+    - Class: 48
+      Script: {instanceID: 0}
+    - Class: 81
+      Script: {instanceID: 0}
+    - Class: 104
+      Script: {instanceID: 0}
+    - Class: 114
+      Script: {instanceID: 1502}
+    - Class: 114
+      Script: {instanceID: 1816}
+    - Class: 114
+      Script: {instanceID: 1932}
+    - Class: 114
+      Script: {instanceID: 2472}
+    - Class: 114
+      Script: {instanceID: 2596}
+    - Class: 114
+      Script: {instanceID: 2636}
+    - Class: 114
+      Script: {instanceID: 2760}
+    - Class: 114
+      Script: {instanceID: 2782}
+    - Class: 114
+      Script: {instanceID: 2982}
+    - Class: 114
+      Script: {instanceID: 3104}
+    - Class: 114
+      Script: {instanceID: 3478}
+    - Class: 115
+      Script: {instanceID: 0}
+    - Class: 157
+      Script: {instanceID: 0}
+    - Class: 196
+      Script: {instanceID: 0}
+    - Class: 213
+      Script: {instanceID: 0}
+    - Class: 222
+      Script: {instanceID: 0}
+    - Class: 223
+      Script: {instanceID: 0}
+    - Class: 224
+      Script: {instanceID: 0}
+    Assets/FPS/Scenes/WinScene.unity:
+    - Class: 1
+      Script: {instanceID: 0}
+    - Class: 4
+      Script: {instanceID: 0}
+    - Class: 20
+      Script: {instanceID: 0}
+    - Class: 21
+      Script: {instanceID: 0}
+    - Class: 28
+      Script: {instanceID: 0}
+    - Class: 48
+      Script: {instanceID: 0}
+    - Class: 81
+      Script: {instanceID: 0}
+    - Class: 104
+      Script: {instanceID: 0}
+    - Class: 114
+      Script: {instanceID: 1502}
+    - Class: 114
+      Script: {instanceID: 1816}
+    - Class: 114
+      Script: {instanceID: 1932}
+    - Class: 114
+      Script: {instanceID: 2472}
+    - Class: 114
+      Script: {instanceID: 2596}
+    - Class: 114
+      Script: {instanceID: 2636}
+    - Class: 114
+      Script: {instanceID: 2760}
+    - Class: 114
+      Script: {instanceID: 2782}
+    - Class: 114
+      Script: {instanceID: 2982}
+    - Class: 114
+      Script: {instanceID: 3104}
+    - Class: 114
+      Script: {instanceID: 3478}
+    - Class: 115
+      Script: {instanceID: 0}
+    - Class: 157
+      Script: {instanceID: 0}
+    - Class: 196
+      Script: {instanceID: 0}
+    - Class: 213
+      Script: {instanceID: 0}
+    - Class: 222
+      Script: {instanceID: 0}
+    - Class: 223
+      Script: {instanceID: 0}
+    - Class: 224
       Script: {instanceID: 0}
   scriptHashData:
   - hash:
@@ -777,12 +911,6 @@ ScriptsOnlyBuild:
     className: TestResultRendererCallback
   - hash:
       serializedVersion: 2
-      Hash: 682978ec725b7a873c63622aa658ae73
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: GameController
-  - hash:
-      serializedVersion: 2
       Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
     assemblyName: fps.UI.dll
     namespaceName: Unity.FPS.UI
@@ -853,12 +981,6 @@ ScriptsOnlyBuild:
     assemblyName: UnityEngine.TestRunner.dll
     namespaceName: UnityEngine.TestTools
     className: BeforeAfterTestCommandState
-  - hash:
-      serializedVersion: 2
-      Hash: 655b3d1a6fa7b54babb65289e673150f
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: DestructableWall
   - hash:
       serializedVersion: 2
       Hash: 568d2711778e6cb5201e2ce33d8b947f
@@ -1357,7 +1479,27 @@ ScriptsOnlyBuild:
     assemblyName: NavMeshComponents.dll
     namespaceName: UnityEngine.AI
     className: NavMeshLink
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: BreakableWall
+  - hash:
+      serializedVersion: 2
+      Hash: 2c7259c92856d27e97ec3f72fc9741e0
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: WallExplosionEvent
+  - hash:
+      serializedVersion: 2
+      Hash: 4c561bcf7aa023a157049ffbab0a10e7
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: FallingWallEvent
   platform: 19
   scenePathNames:
   - Assets/FPS/Scenes/FinalScene.unity
-  playerPath: C:/Users/whr5t/Desktop/GitRepos/LevelDesign_I/RobertsHenry_LD_P03/Builds/Final.v2/RobertsHenry_LD_P03_FPSMultigame.exe
+  - Assets/FPS/Scenes/WinScene.unity
+  - Assets/FPS/Scenes/LoseScene.unity
+  playerPath: C:/Users/whr5t/Desktop/GitRepos/LevelDesign_I/RobertsHenry_LD_P03/Builds/RobertsHenry_LD03_FPSMicrogame/RobertsHenry_LD_P03_FPSMultigame.exe

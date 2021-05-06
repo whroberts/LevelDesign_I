@@ -4,15 +4,16 @@ using UnityEngine;
 
 public class Rocket : MonoBehaviour
 {
-    private void OnTriggerEnter(Collider other)
+    private void OnDestroy()
     {
-        DestructableWall dw = other.GetComponent<DestructableWall>();
-        Debug.Log("HIT1");
-        dw?.Break();
-    }
+        Collider[] hit = Physics.OverlapSphere(this.transform.position, 1);
 
-    private void OnCollisionEnter(Collision collision)
-    {
-        Debug.Log("HIT2");
+        foreach (var collider in hit)
+        {
+            if (collider.gameObject.CompareTag("Breakable"))
+            {
+                collider.gameObject.SetActive(false);
+            }
+        }
     }
 }
